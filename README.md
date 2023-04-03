@@ -12,7 +12,7 @@ rinter << 5             # `<<`store the value inside rinter and prints it
 5
 ```
 
-### weird stuff i discovered doig this
+### weird stuff i discovered doing this
 
 **trying to print with:**
 - `__matmult__` the first element becones None
