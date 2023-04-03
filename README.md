@@ -15,5 +15,5 @@ rinter << 5             # `<<`store the value inside rinter and prints it
 ### weird stuff i discovered doing this
 
 **trying to print with:**
-- `__matmult__` the first element becones None
+- `__matmult__` the first element becomes None
 - `__rshift__` only gets the first element
